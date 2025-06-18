@@ -1,6 +1,6 @@
 from groq import Groq
 
-api_key = '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' #Input your own key here
+api_key = '' #Input your own key here
 
 client = Groq(api_key=api_key)
 
